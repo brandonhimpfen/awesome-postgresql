@@ -55,6 +55,7 @@
 - [PostGIS](https://postgis.net/) - A spatial database extender for PostgreSQL, adding support for geographic objects.
 - [pg_stat_statements](https://www.postgresql.org/docs/current/pgstatstatements.html) - A module that tracks execution statistics of all SQL statements.
 - [pgcrypto](https://www.postgresql.org/docs/current/pgcrypto.html) - A cryptographic extension for PostgreSQL, providing various hashing and encryption functions.
+- [psql_bm25s](https://github.com/Intelligent-Internet/psql_bm25s) - A PostgreSQL extension for BM25-family lexical retrieval with a native index access method and SQL query APIs.
 - [TimescaleDB](https://www.timescale.com/) - A time-series database built on top of PostgreSQL.
 - [Citus](https://www.citusdata.com/) - An extension that transforms PostgreSQL into a distributed database for horizontal scalability.
 
