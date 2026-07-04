@@ -49,6 +49,7 @@
 - [WAL-G](https://github.com/wal-g/wal-g) - A backup and restore tool for PostgreSQL with support for continuous archiving.
 - [Flyway](https://flywaydb.org/) - A database migration tool that supports PostgreSQL.
 - [Liquibase](https://www.liquibase.org/) - An open-source tool for managing and tracking database schema changes.
+- [Actual Schema Gradle Plugin](https://github.com/YRashid/actual-schema-gradle-plugin) - Gradle plugin that generates a PostgreSQL schema.sql from Liquibase migrations using Testcontainers.
 
 ## Extensions
 
