@@ -57,6 +57,7 @@
 - [pgcrypto](https://www.postgresql.org/docs/current/pgcrypto.html) - A cryptographic extension for PostgreSQL, providing various hashing and encryption functions.
 - [TimescaleDB](https://www.timescale.com/) - A time-series database built on top of PostgreSQL.
 - [Citus](https://www.citusdata.com/) - An extension that transforms PostgreSQL into a distributed database for horizontal scalability.
+- [KoldStore](https://github.com/kalamdb/koldstore) - PostgreSQL tiered-storage that moves historical rows to Parquet while keeping the original table fully queryable and supporting updates and deletes.
 
 ## Optimization and Monitoring
 
