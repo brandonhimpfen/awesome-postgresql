@@ -41,6 +41,7 @@
 - [DataGrip](https://www.jetbrains.com/datagrip/) - A powerful database IDE by JetBrains, with PostgreSQL support.
 - [TablePlus](https://tableplus.com/) - A modern, native GUI tool for PostgreSQL and other databases.
 - [HeidiSQL](https://www.heidisql.com/) - A lightweight and fast database client for Windows, supporting PostgreSQL.
+- [Mongrel](https://www.visorcraft.com/mongrel) - Cross-platform desktop workbench with PostgreSQL and pgvector support.
 
 ## Backup and Migration
 
