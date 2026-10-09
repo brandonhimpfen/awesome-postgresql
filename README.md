@@ -42,6 +42,7 @@
 - [DataGrip](https://www.jetbrains.com/datagrip/) - A powerful database IDE by JetBrains, with PostgreSQL support.
 - [TablePlus](https://tableplus.com/) - A modern, native GUI tool for PostgreSQL and other databases.
 - [HeidiSQL](https://www.heidisql.com/) - A lightweight and fast database client for Windows, supporting PostgreSQL.
+- [Beekeeper Studio](https://www.beekeeperstudio.io/) - An open-source, cross-platform SQL editor and database manager with PostgreSQL support.
 
 ## Backup and Migration
 
