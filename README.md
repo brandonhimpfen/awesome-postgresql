@@ -75,6 +75,7 @@
 - [Bucardo](https://bucardo.org/Bucardo/) - A multi-master replication system for PostgreSQL.
 - [Citus](https://www.citusdata.com/) - A distributed database solution for scaling PostgreSQL horizontally.
 - [Spock](https://github.com/pgEdge/spock) - Logical multi-master PostgreSQL replication.
+- [OLake](https://github.com/datazip-inc/olake) - Open-source PostgreSQL to Apache Iceberg replication using logical replication (CDC), full refresh and incremental sync. Written in Go.
 
 ## Data Modeling and Schema Design
 
