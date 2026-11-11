@@ -27,6 +27,7 @@
 
 ## Libraries and Clients
 
+- [Kova](https://github.com/edvong/kova) - A macro-free PostgreSQL and SQLite ORM for Rust with native binary JSONB and FTS5.
 - [psycopg2](https://www.psycopg.org/) - The most popular PostgreSQL driver for Python.
 - [pgx](https://github.com/jackc/pgx) - A PostgreSQL driver and toolkit for Go that aims to be feature-rich and performant.
 - [node-postgres](https://github.com/brianc/node-postgres) - A comprehensive PostgreSQL client for Node.js.
