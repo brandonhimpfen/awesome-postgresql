@@ -42,6 +42,7 @@
 - [DataGrip](https://www.jetbrains.com/datagrip/) - A powerful database IDE by JetBrains, with PostgreSQL support.
 - [TablePlus](https://tableplus.com/) - A modern, native GUI tool for PostgreSQL and other databases.
 - [HeidiSQL](https://www.heidisql.com/) - A lightweight and fast database client for Windows, supporting PostgreSQL.
+- [OrcaQ](https://github.com/cin12211/orca-q) - Open-source database editor for PostgreSQL with ERD, schema diff, role and permission management, backup and restore, and an instance health dashboard.
 
 ## Backup and Migration
 
